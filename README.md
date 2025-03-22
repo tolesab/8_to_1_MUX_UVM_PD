@@ -75,4 +75,4 @@ For selector inputs `S2 S1 S0 = 101`, the output `Y` will match `D5`.
 
 Feel free to contribute or report issu
 ## Author's
-# ARUN CHAVAN
+# Tolesab
